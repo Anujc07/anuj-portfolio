@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Software Developer Intern",
+    "organisation": "Virtuon AI, Bhopal (M.P.)",
+    "startDate": "January 2024",
+    "endDate": "Present",
+    "experiences": ["Worked on Lead Analysis System", "Making it easy to analyze leads"],
+    "imageSrc": "history/SR.png"
+  },
+  {
+    "role": "Web Developer Intern",
+    "organisation": "Dhiyotech Pvt. Ltd. Bhopal (M.P) ",
+    "startDate": "July, 2023",
+    "endDate": "Sep, 2023",
+    "experiences": ["Worked on Web Scraping Bot", "Wordpress and PHP Web Design"],
+    "imageSrc": "history/microsoft.png"
+  }  
+]
