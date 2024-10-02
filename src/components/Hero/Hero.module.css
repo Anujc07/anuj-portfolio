@@ -110,3 +110,21 @@
     align-items: center;
   }
 }
+
+@media (max-width: 480px)  {
+  .title  {
+    margin: 20px 0;
+    font-size: 20px !important;
+  }
+  .description{
+    font-weight: 500 !important;
+    font-size: 16px;
+    text-align: center;
+    font-family: 'Roboto';
+  }
+  .contactBtn {   
+    font-size: 18px;
+    font-weight: 400;
+    padding: 12px 26px;
+}
+}

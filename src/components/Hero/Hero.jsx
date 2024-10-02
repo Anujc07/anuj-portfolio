@@ -6,7 +6,7 @@ import { getImageUrl } from "../../utils";
 export const Hero = () => {
   return (
     <section className={styles.container}>
-      <div className={styles.content}>
+      <div className={styles.content} >
         <h1 className={styles.title}>Hi, I'm Anuj Choubey</h1>
         <p className={styles.description}>
           I'm a Full-Stack Developer with more than 10 months of experience using React, Django Rest Framework and Django.<br/> Reach out if you'd like to learn more !

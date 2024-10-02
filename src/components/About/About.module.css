@@ -90,3 +90,21 @@
     padding-right: 0;
   }
 }
+
+@media (max-width:480px) {
+  .container{
+    margin-top: 20px;
+  }
+  .title{
+    text-align: center;
+  }
+  .aboutItem {
+    text-align: center;
+    display: grid;
+  }
+  .aboutItem p {
+    font-size: 18px;
+    margin: 10px 0;
+    text-align: justify;
+  }
+}
