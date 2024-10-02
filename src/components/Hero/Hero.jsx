@@ -9,7 +9,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Anuj Choubey</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with more than 10 months of experience using React, Django Rest Framework and Django. Reach out if you'd like to learn more!
+          I'm a Full-Stack Developer with more than 10 months of experience using React, Django Rest Framework and Django.<br/> Reach out if you'd like to learn more !
         </p>
         <a href="mailto:choubeyanuj44@gmail.com" className={styles.contactBtn}>
           Contact Me
