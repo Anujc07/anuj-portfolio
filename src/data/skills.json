@@ -8,6 +8,14 @@
     "imageSrc": "skills/css.png"
   },
   {
+    "title": "Java Script",
+    "imageSrc": "skills/JS.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/Python.png"
+  },
+  {
     "title": "React",
     "imageSrc": "skills/react.png"
   },
@@ -23,5 +31,9 @@
   {
     "title": "MySQL",
     "imageSrc": "skills/mySQL.png"
+  },
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "skills/PostgreSQL.png"
   }
 ]
