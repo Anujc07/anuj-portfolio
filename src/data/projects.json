@@ -3,7 +3,7 @@
     "title": "Lead Management System",
     "imageSrc": "projects/P1.png",
     "description": "A system designed to simplify the analysis of employee leads within an organization, providing efficient tracking and management of lead data.",
-    "skills": ["Django", "DRF", "MySQL"],
+    "skills": ["Python","Django", "DRF", "MySQL", "HTML", "CSS", "JS"],
     "source": "https://github.com/Anujc07/LMS"
 
   },
@@ -12,14 +12,14 @@
     "imageSrc": "projects/P2.png",
 "description": "A Course Management System designed to facilitate learning of the latest programming languages by building a dynamic web application with a user-friendly interface.",
 
-    "skills": ["Django Rest Framework", "React.js", "MySQL"],
+    "skills": ["Python","Django Rest Framework", "React.js", "MySQL", "HTML", "CSS", "JS"],
     "source": "https://github.com/Anujc07/LMS-Frontend/tree/main"
   },
   {
     "title": "Weather App",
     "imageSrc": "projects/P3.png",
     "description": "This Project Show live weather conditions of any city.",
-    "skills": ["Django", "MySQL"],
+    "skills": ["Python", "Django", "MySQL", "HTML", "CSS", "JS"],
   
     "source": "https://github.com/Anujc07/Weather_app"
   }
