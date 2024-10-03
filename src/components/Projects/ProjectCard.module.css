@@ -60,3 +60,9 @@
   background: var(--color-primary);
   padding: 1px 22px;
 }
+
+@media (max-width:480) {
+  .container { 
+    max-width: 330px;
+  }
+}
