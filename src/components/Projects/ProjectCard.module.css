@@ -61,7 +61,7 @@
   padding: 1px 22px;
 }
 
-@media (max-width:480) {
+@media (max-width:480px) {
   .container { 
     max-width: 330px;
   }
