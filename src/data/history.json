@@ -4,7 +4,7 @@
     "organisation": "Virtuon AI, Bhopal (M.P.)",
     "startDate": "January 2024",
     "endDate": "Present",
-    "experiences": ["Worked on Lead Analysis System", "Making it easy to analyze leads"],
+    "experiences": ["Developed and maintained a Lead Analysis System, streamlining the process of analyzing and managing sales leads.", "Integrated data visualization tools to present lead trends and performance metrics, enhancing decision-making for sales teams.", "Automated reporting features, reducing manual effort and improving the accuracy and timeliness of lead analysis reports."],
     "imageSrc": "history/SR.png"
   },
   {
@@ -12,7 +12,7 @@
     "organisation": "Dhiyotech Pvt. Ltd. Bhopal (M.P) ",
     "startDate": "July, 2023",
     "endDate": "Sep, 2023",
-    "experiences": ["Worked on Web Scraping Bot", "Wordpress and PHP Web Design"],
+    "experiences": ["Developed and implemented a web scraping bot to extract data from various websites, automating data collection processes.", "Optimized web performance by troubleshooting issues, ensuring faster load times and a smoother user experience."],
     "imageSrc": "history/dhiyotech.png"
   }  
 ]

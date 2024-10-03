@@ -118,3 +118,36 @@
     gap: 9px;
   }
 }
+
+
+@media (max-width:480px) {
+
+  .title{
+    text-align: center;
+  }
+  .historyItem {
+    display: grid;    
+  }
+  .historyItem img {
+    width: 50%;
+    margin: 0 auto;
+  }
+  
+  .historyItemDetails h3 {
+    font-size: 17px;
+  }
+
+  .historyItemDetails p {
+    font-size: 14px;
+  }
+  .historyItemDetails ul {
+
+    font-size: 14px;
+    
+  }
+  .experiencepoint{
+    text-align: justify;
+    margin-top: 10px;
+  }
+  
+}

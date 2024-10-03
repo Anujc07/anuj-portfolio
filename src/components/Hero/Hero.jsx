@@ -1,5 +1,4 @@
 import React from "react";
-
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
 
@@ -11,9 +10,15 @@ export const Hero = () => {
         <p className={styles.description}>
           I'm a Full-Stack Developer with more than 10 months of experience using React, Django Rest Framework and Django.<br/> Reach out if you'd like to learn more !
         </p>
-        <a href="mailto:choubeyanuj44@gmail.com" className={styles.contactBtn}>
-          Contact Me
-        </a>
+        <div>
+          <a href="mailto:choubeyanuj44@gmail.com" className={styles.contactBtn}>
+            Contact Me
+          </a>
+          <a  target='blank' href={getImageUrl("resume/ANUJCHOUBEY.pdf")} className={styles.contactBtn} download>
+            Resume
+          </a>
+        </div>
+        
       </div>
       <img
         src={getImageUrl("hero/anuj2.svg")}

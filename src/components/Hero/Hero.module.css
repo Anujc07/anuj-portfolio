@@ -20,8 +20,8 @@
 }
 
 .title {
-  font-size: 72px;
-  font-weight: 900;
+  font-size: 52px;
+  font-weight: 700;
   margin-bottom: 33px;
   /* font-family: var(--font-roboto); */
   font-family: var(--font-Libre-Baskerville);
@@ -35,20 +35,22 @@
 }
 
 .description {
-  font-size: 30px;
+  font-size: 22px;
   font-family: var(--font-Libre-Baskerville);
   margin-bottom: 52px;
 }
 
 .contactBtn {
+  margin-left: 10px;
   text-decoration: none;
   background-color: var(--color-primary);
   color: var(--color-text);
   border-radius: 100px;
-  font-size: 30px;
+  font-size: 18px;
   font-weight: 600;
-  padding: 17px 26px;
+  padding: 10px 26px;
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+  
 }
 
 .heroImg {
@@ -123,6 +125,7 @@
     font-family: 'Roboto';
   }
   .contactBtn {   
+    margin-bottom: 10px;
     font-size: 18px;
     font-weight: 400;
     padding: 12px 26px;
