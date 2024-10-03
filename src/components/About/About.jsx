@@ -37,8 +37,8 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Database Integration</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+              Experienced in integrating databases into web applications, ensuring efficient data storage, retrieval, and management with optimized queries (ORM) and seamless back-end support.
+
               </p>
             </div>
           </li>
