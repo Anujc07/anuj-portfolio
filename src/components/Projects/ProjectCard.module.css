@@ -20,7 +20,8 @@
 }
 
 .description {
-  margin-top: 6px;
+  text-align: justify;
+  margin-top: 20px;
   font-size: 18px;
   font-weight: 400;
 }

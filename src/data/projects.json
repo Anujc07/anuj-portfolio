@@ -9,16 +9,14 @@
   {
     "title": "Course Management System",
     "imageSrc": "projects/P2.png",
-"description": "A Course Management System designed to facilitate learning of the latest programming languages by building a dynamic web application with a user-friendly interface.",
-
+    "description": "A Course Management System designed to facilitate learning of the latest programming languages by building a dynamic web application with a user-friendly interface.",
     "skills": ["Python","Django Rest Framework", "React.js", "MySQL", "HTML", "CSS", "JS"]
   },
   {
     "title": "Weather App",
     "imageSrc": "projects/P3.png",
-    "description": "This Project Show live weather conditions of any city.",
+    "description": "A dynamic weather application that provides real-time weather conditions for any city, featuring detailed forecasts and a user-friendly interface built with Python, Django, and modern web technologies.",
     "skills": ["Python", "Django", "MySQL", "HTML", "CSS", "JS"],
-  
     "source": "https://github.com/Anujc07/Weather_app"
   }
 ]
