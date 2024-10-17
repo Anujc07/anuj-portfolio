@@ -18,5 +18,20 @@
     "description": "A dynamic weather application that provides real-time weather conditions for any city, featuring detailed forecasts and a user-friendly interface built with Python, Django, and modern web technologies.",
     "skills": ["Python", "Django", "MySQL", "HTML", "CSS", "JS"],
     "source": "https://github.com/Anujc07/Weather_app"
+  },
+  {
+    "title": "Room Listing Platform",
+    "imageSrc": "projects/P4.png",
+    "description": "A user-friendly platform that helps people find and book rooms on rent. It allows users to search for available accommodations, view detailed property information, and easily navigate through listings. Built with Python and Django, this app offers a smooth experience for both guests and property owners.",
+    "skills": ["Python", "Django", "MySQL", "HTML", "CSS", "JS"],
+    "source": "https://github.com/Anujc07/Door"
+  },
+  {
+    "title": "Web Scraping Bot",
+    "imageSrc": "projects/P5.PNG",
+    "description": "A powerful web scraping bot designed to collect and analyze data from various websites. This tool automates the process of extracting information, enabling users to gather insights and data easily. Built with Python, it utilizes libraries like selenium and web drivers for efficient web scraping, ensuring accurate and organized data retrieval.",
+    "skills": ["Python", "selenium", "Web Driver"],
+    "source": "https://github.com/Anujc07/bot"
   }
+  
 ]
