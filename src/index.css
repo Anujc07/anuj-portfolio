@@ -8,3 +8,7 @@
 html {
   scroll-behavior: smooth;
 }
+
+.tailwind tailwind-no-preflight {
+  display: none !important;
+}
