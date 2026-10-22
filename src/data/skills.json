@@ -1,39 +1,20 @@
 [
-  {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
-  },
-  {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
-  },
-  {
-    "title": "Java Script",
-    "imageSrc": "skills/JS.png"
-  },
-  {
-    "title": "Python",
-    "imageSrc": "skills/Python.png"
-  },
-  {
-    "title": "React",
-    "imageSrc": "skills/react.png"
-  },
-  {
-    "title": "Django",
-    "imageSrc": "skills/dj.png"
-  },
- 
-  {
-    "title": "DRF",
-    "imageSrc": "skills/DRF.png"
-  },
-  {
-    "title": "MySQL",
-    "imageSrc": "skills/mySQL.png"
-  },
-  {
-    "title": "PostgreSQL",
-    "imageSrc": "skills/PostgreSQL.png"
-  }
+  { "title": "Python" },
+  { "title": "JavaScript" },
+  { "title": "Django" },
+  { "title": "Django REST Framework" },
+  { "title": "REST APIs" },
+  { "title": "Django Tenants" },
+  { "title": "PostgreSQL" },
+  { "title": "MySQL" },
+  { "title": "Redis" },
+  { "title": "RabbitMQ" },
+  { "title": "Celery" },
+  { "title": "AWS" },
+  { "title": "Linux" },
+  { "title": "Git & GitHub" },
+  { "title": "Git Flow" },
+  { "title": "HTML5 & CSS3" },
+  { "title": "Bootstrap" },
+  { "title": "React" }
 ]

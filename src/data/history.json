@@ -1,18 +1,26 @@
 [
   {
-    "role": "Software Developer Intern",
-    "organisation": "Virtuon AI, Bhopal (M.P.)",
-    "startDate": "January 2024",
+    "role": "Backend Developer",
+    "organisation": "Coverstack Technologies Pvt Ltd · Bangalore, Karnataka",
+    "startDate": "February 2026",
     "endDate": "Present",
-    "experiences": ["Developed and maintained a Lead Analysis System, streamlining the process of analyzing and managing sales leads.", "Integrated data visualization tools to present lead trends and performance metrics, enhancing decision-making for sales teams.", "Automated reporting features, reducing manual effort and improving the accuracy and timeliness of lead analysis reports."],
-    "imageSrc": "history/SR.png"
+    "experiences": [
+      "Engineered and maintained 3+ core modules for a multi-tenant insurance POS platform using Python, Django, DRF, PostgreSQL, and Django Tenants, supporting tenant-isolated workflows across multiple insurance partners.",
+      "Implemented 6+ configuration-driven business workflows, reducing partner-specific code changes and accelerating onboarding of new insurance products.",
+      "Resolved 14+ critical production issues related to agent onboarding, hierarchy management, and policy mapping, improving platform stability and operational efficiency.",
+      "Implemented a Manager–Managee Mapping module supporting 300+ agents and managers, strengthening reporting structures and role-based access control."
+    ]
   },
   {
-    "role": "Web Developer Intern",
-    "organisation": "Dhiyotech Pvt. Ltd. Bhopal (M.P) ",
-    "startDate": "July, 2023",
-    "endDate": "Sep, 2023",
-    "experiences": ["Developed and implemented a web scraping bot to extract data from various websites, automating data collection processes.", "Optimized web performance by troubleshooting issues, ensuring faster load times and a smoother user experience."],
-    "imageSrc": "history/dhiyotech.png"
-  }  
+    "role": "SDE 1",
+    "organisation": "Fyn Mobility · Bangalore, Karnataka",
+    "startDate": "February 2025",
+    "endDate": "February 2026",
+    "experiences": [
+      "Revamped the fleet management platform using Python, Django, PostgreSQL, HTML, CSS, and JavaScript, improving operational workflow efficiency by 15%.",
+      "Architected and delivered an end-to-end EV rental platform supporting 500+ rental bookings, implementing enquiry-to-order, vehicle allocation, and booking lifecycle management using Django REST Framework.",
+      "Built and integrated 7+ REST APIs for rental operations, vehicle allocation, and order processing workflows, following RESTful API design principles.",
+      "Integrated RabbitMQ and Celery for asynchronous task processing and communication between fleet and rental systems, reducing manual coordination effort by 60%."
+    ]
+  }
 ]

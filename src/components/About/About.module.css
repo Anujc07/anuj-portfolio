@@ -21,19 +21,23 @@
 
 .content {
   display: flex;
-  flex-direction: row;
-  align-items: center;
+  flex-direction: column;
+  gap: 24px;
 }
 
-.aboutImage {
-  width: 35%;
+.summary {
+  color: var(--color-text);
+  font-size: 19px;
+  line-height: 1.8;
+  max-width: 1000px;
 }
 
 .aboutItems {
   color: var(--color-text);
   display: flex;
   flex-direction: column;
-  gap: 50px;
+  gap: 20px;
+  padding: 0;
 }
 
 .aboutItem {
@@ -58,12 +62,13 @@
 }
 
 .aboutItem h3 {
-  font-size: 25px;
+  font-size: 21px;
   font-weight: 600;
 }
 
 .aboutItem p {
-  font-size: 25px;
+  font-size: 17px;
+  line-height: 1.6;
 }
 
 @media screen and (max-width: 830px) {
@@ -75,10 +80,6 @@
 
   .content {
     flex-direction: column;
-  }
-
-  .aboutImage {
-    display: none;
   }
 
   .aboutItems {

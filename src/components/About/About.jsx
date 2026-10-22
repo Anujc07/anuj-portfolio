@@ -1,45 +1,30 @@
-import React from "react";
-
 import styles from "./About.module.css";
-import { getImageUrl } from "../../utils";
 
 export const About = () => {
   return (
     <section className={styles.container} id="about">
-      <h2 className={styles.title}>About</h2>
+      <h2 className={styles.title}>Professional Summary</h2>
       <div className={styles.content}>
-        <img
-          src={getImageUrl("about/aboutImage.png")}
-          alt="Me sitting with a laptop"
-          className={styles.aboutImage}
-        />
+        <p className={styles.summary}>
+          Backend Developer with 1.5+ years of experience designing and building scalable, RESTful API-driven SaaS applications using Python, Django, Django REST Framework, PostgreSQL, Redis, RabbitMQ, and Celery. Experienced in multi-tenant architectures, asynchronous task processing, workflow automation, database query optimization, production issue resolution, and enterprise insurance platforms. Strong background in designing configurable business workflows and optimizing scalable backend systems.
+        </p>
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" className={styles.aboutimg}/>
             <div className={styles.aboutItemText}>
-              <h3>API Developer</h3>
-              <p>
-              Passionate API developer dedicated to building responsive, optimized solutions. I create seamless integrations that enhance user experiences and drive innovation, ensuring every project exceeds expectations. Let's connect and innovate together!
-              </p>
+              <h3>Scalable SaaS & APIs</h3>
+              <p>Designing robust REST APIs and multi-tenant platforms for real-world business workflows.</p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" className={styles.aboutimg} />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
-              <p>
-              Experienced in developing fast and optimized back-end systems using Django. I specialize in building robust APIs and scalable applications that enhance performance and deliver seamless user experiences.           
-              </p>
+              <h3>Workflow Automation</h3>
+              <p>Building configuration-driven workflows and asynchronous services with Celery and RabbitMQ.</p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" className={styles.aboutimg} />
             <div className={styles.aboutItemText}>
-              <h3>Database Integration</h3>
-              <p>
-              Experienced in integrating databases into web applications, ensuring efficient data storage, retrieval, and management with optimized queries (ORM) and seamless back-end support.
-
-              </p>
+              <h3>Production Engineering</h3>
+              <p>Resolving production issues, improving database performance, and delivering dependable systems.</p>
             </div>
           </li>
         </ul>

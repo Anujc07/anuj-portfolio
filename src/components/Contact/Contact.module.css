@@ -46,6 +46,19 @@
   letter-spacing: 1.5px;
 }
 
+.link span:not(.contactIcon) {
+  color: var(--color-text);
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+
+.contactIcon {
+  width: 30px;
+  color: #a5d7e8;
+  font-size: 24px;
+  text-align: center;
+}
+
 @media screen and (max-width: 830px) {
   .container {
     flex-direction: column;
